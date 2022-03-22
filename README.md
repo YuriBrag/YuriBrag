@@ -4,7 +4,7 @@
  📚 I’m currently learning js <br>
  </div>
 
-  <div align="center"><br>
+  <div><br>
   <a href="https://github.com/YuriBrag">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriBrag&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
