@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @YuriBrag, a computer science student
+- 🌱 I'm beginning to learn how to program, so basically everything is new to me
+- 📚 I’m currently learning js
