@@ -1,6 +1,5 @@
  <div>
  👋 Hi, I’m @YuriBrag, a computer science student <br>
- 📚 I’m currently learning js <br>
  </div>
 
   <div><br>
